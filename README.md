@@ -2,7 +2,7 @@
 
 ## Diagramming how components interact together
 
-![diagram](./counter-app-diagram.png.png)
+![diagram](./counter-app-diagram.png)
 
 How to setup:
 ```
