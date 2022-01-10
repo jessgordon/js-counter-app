@@ -1,5 +1,9 @@
 # A simple counter
 
+## Diagramming how components interact together
+
+![diagram](counter-app-diagram.png.png)
+
 How to setup:
 ```
 npm install -g esbuild
